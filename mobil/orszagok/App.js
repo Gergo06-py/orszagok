@@ -1,4 +1,13 @@
-import { StatusBar } from "expo-status-bar";
+/*
+ * File: App.js
+ * Author: Borbély Gergő Árpád
+ * Copyright: 2024, Borbély Gergő Árpád
+ * Group: Szoft II/2/N
+ * Date: 2024-03-13
+ * Github: https://github.com/Gergo06-py
+ * Licenc: GNU GPL
+ */
+
 import { useState } from "react";
 import { FlatList, Pressable, StyleSheet, Text, View } from "react-native";
 
